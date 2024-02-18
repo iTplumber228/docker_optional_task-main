@@ -1,1 +1,1 @@
-![](../Monosnap http___localhost_9999_api_cards - pattern.png)
+![](../Monosnap http___localhost_9999_api_cards - pattern.png)![Monosnap http___localhost_9999_api_cards - pattern](https://github.com/iTplumber228/docker_optional_task-main/assets/121715161/7bd044fa-395b-4a5d-a45a-713a23246b0b)
